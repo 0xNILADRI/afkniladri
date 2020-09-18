@@ -1,5 +1,5 @@
-### Hello everyone, I'm NIladri Ghosh 👋 
-## You can find me on [niladrihere][website] 
+## Hello everyone, I'm NIladri Ghosh 👋 
+### You can find me on [niladrihere][website] 
 
 [![Website](https://img.shields.io/website?label=niladrihere.netlify.app&style=for-the-badge&url=https%3A%2F%2Fniladrihere.netlify.app)](https://niladrihere.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/niladri_here?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fniladrihere&screen_name=niladrihere)
@@ -12,8 +12,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I've recently installed MacOS Big Sur on my Windows laptop.💻
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
