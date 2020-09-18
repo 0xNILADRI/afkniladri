@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=niladrihere.netlify.app&style=for-the-badge&url=https%3A%2F%2Fniladrihere.netlify.app)](https://niladrihere.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/niladri_here?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fniladrihere&screen_name=niladrihere)
 
-<img align="right" alt="code_gif" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" width="200px" alt="code_gif" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 `In short, I'm a Machine Learning Enginneer, Developer and a Computer Freak (built 4 PCs, 5th work in progress)🤓 !`
 
