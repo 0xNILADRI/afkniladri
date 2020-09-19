@@ -11,7 +11,7 @@
 - 🔨 I’m currently working on [Image Processing Project][website]!
 - 💡 I’m currently learning everything that I can.
 - 👊 I’m looking forward to work with other data enthusiasts.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I've recently installed MacOS Big Sur on my Windows laptop.💻
 
 
