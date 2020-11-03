@@ -1,4 +1,4 @@
-## Hello everyone, I'm NIladri Ghosh 👋 
+## Hello everyone, I'm Niladri Ghosh 👋 
 ### You can find me on [niladrihere][website] 
 
 [![Website](https://img.shields.io/website?label=niladrihere.netlify.app&style=for-the-badge&url=https%3A%2F%2Fniladrihere.netlify.app)](https://niladrihere.netlify.app)
@@ -6,7 +6,7 @@
 
 <img align="right" width="365px" alt="code_gif" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-`In short, I'm a Machine Learning Enginneer, Developer and a Computer Freak (built 4 PCs, 5th work in progress)🤓 !`
+`I'm a Machine Learning Enginneer, Developer and a Computer Freak 🤓 !`
 
 - 🔨 I’m currently working on [Image Processing Project][website]!
 - 💡 I’m currently learning everything that I can.
