@@ -1,7 +1,7 @@
 ## Hello everyone, I'm Niladri Ghosh 👋 
 ### You can find me on [niladrihere][website] 
 
-[![Website](https://img.shields.io/website?label=niladrihere.netlify.app&style=for-the-badge&url=https%3A%2F%2Fniladrihere.netlify.app)](https://niladrihere.netlify.app)
+[![Website](https://img.shields.io/badge/niladrihere.me-UP-brightgreen)](http://www.niladrihere.me/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/niladri_here?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fniladrihere&screen_name=niladrihere)
 
 `I'm a Machine Learning Enginneer, Developer and a Computer Freak 🤓 !`
