@@ -9,7 +9,7 @@
 - 💡 I’m currently learning everything that I can.
 - 👊 I’m looking forward to work with other data enthusiasts.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I've recently installed MacOS Big Sur on my Windows laptop.💻
+- ⚡ Fun fact: I've installed MacOS Big Sur on my Acer laptop.💻
 
 
 ### Connect with me:
@@ -49,6 +49,6 @@
 
 </details>
 
-[website]: https://niladrihere.netlify.app
+[website]: http://www.niladrihere.me/
 [twitter]: https://twitter.com/niladri_here
 [linkedin]: https://linkedin.com/in/niladrihere
