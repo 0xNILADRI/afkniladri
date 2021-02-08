@@ -1,7 +1,4 @@
 ## Hello everyone, I'm Niladri Ghosh 👋 
-### You can find me on [niladrihere][website] 
-
-[![Website](https://img.shields.io/badge/niladrihere.me-UP-brightgreen)](http://www.niladrihere.me/)
 
 `I'm a Web Developer and a Computer Freak 🤓 . Ex-Data Analyst!`
 
@@ -13,8 +10,6 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="niladrihere.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="niladri_here | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -48,7 +43,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Git" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
-[website]: http://www.niladrihere.me/
 [twitter]: https://twitter.com/niladri_here
 [linkedin]: https://linkedin.com/in/niladrihere
