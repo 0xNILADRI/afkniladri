@@ -3,12 +3,12 @@
 
 [![Website](https://img.shields.io/badge/niladrihere.me-UP-brightgreen)](http://www.niladrihere.me/)
 
-`I'm a Machine Learning Enginneer, Developer and a Computer Freak 🤓 !`
+`I'm a Web Developer and a Computer Freak 🤓 . Ex-Data Analyst!`
 
-- 🔨 I’m currently working on [Image Processing Project][website]!
+- 🔨 I’m currently working on a website!
 - 💡 I’m currently learning everything that I can.
 - 👊 I’m looking forward to work with other data enthusiasts.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I've installed MacOS Big Sur on my Acer laptop.💻
 
 
