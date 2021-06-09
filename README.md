@@ -1,12 +1,12 @@
 ## Hello everyone, I'm Niladri Ghosh 👋 
 
-`I'm a Web Developer and a Computer Freak 🤓 . Ex-Data Analyst!`
+`I'm a computer hardware geek 🤓. Who loves building pcs, nowadays I suggest people AMD 😉`
 
 - 🔨 I’m currently working on a website!
-- 💡 I’m currently learning everything that I can.
-- 👊 I’m looking forward to work with other data enthusiasts.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I've installed MacOS Big Sur on my Acer laptop.💻
+- 💡 I’m soaking in everything that I find interesting.
+- 👊 I’m looking forward to work with other indigeneuos developers.
+- 🥅 2021 Goals: Contribute more to Open Source projects and exercise more often, indoors!
+- ⚡ Fun fact: I've recently installed macOS Monterey (yes it's the latest one, developer build) on my [Acer laptop 💻](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC).
 
 
 ### Connect with me:
@@ -38,5 +38,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Git" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[twitter]: https://twitter.com/niladri_here
-[linkedin]: https://linkedin.com/in/niladrihere
+[twitter]: https://twitter.com/afkniladri
+[linkedin]: https://www.linkedin.com/in/afkniladri
