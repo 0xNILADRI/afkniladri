@@ -6,7 +6,7 @@
 - 💡 I’m soaking in everything that I find interesting.
 - 👊 I’m looking forward to work with other indigeneuos developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects and exercise more often, indoors!
-- ⚡ Fun fact: I've recently installed macOS Monterey (yes it's the latest one, developer build) on my [Acer laptop 💻](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC).
+- ⚡ Fun fact: I've recently installed macOS Monterey (developer build) on my [Acer laptop 💻](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC).
 
 
 ### Connect with me:
