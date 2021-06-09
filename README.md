@@ -2,7 +2,7 @@
 
 `I'm a computer hardware geek 🤓. Who loves building pcs, nowadays I suggest people AMD 😉`
 
-- 🔨 I’m currently working on a website!
+- 🔨 I’m currently learning ReactJS.
 - 💡 I’m soaking in everything that I find interesting.
 - 👊 I’m looking forward to work with other indigeneuos developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects and exercise more often, indoors!
