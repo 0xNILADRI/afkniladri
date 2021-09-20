@@ -1,9 +1,9 @@
 ## Hello everyone, I'm Niladri Ghosh 👋 
 
-`I'm a computer hardware geek 🤓. Who loves building pcs, nowadays I suggest people AMD 😉`
+`A guy who loves building pcs, p.s nowadays I suggest people AMD 😉`
 
-- 🔨 I’m currently learning ReactJS.
-- 💡 I’m soaking in everything that I find interesting.
+- 🔨 I’m currently practicing Data Structures.
+- 💡 World is too big. Only soaking in relevent topics; selective learning.
 - 👊 I’m looking forward to work with other indigeneuos developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects and exercise more often, indoors!
 - ⚡ Fun fact: I've recently installed macOS Monterey (developer build) on my [Acer laptop 💻](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC).
