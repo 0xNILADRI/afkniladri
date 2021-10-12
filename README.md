@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="niladri_here | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="niladri_here | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill:#03A9F4;"/>][twitter]
 
-[<img align="left" alt="niladrihere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="niladrihere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill:#1976D2;"/>][linkedin]
 
 
 <br />
