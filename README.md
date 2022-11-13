@@ -1,6 +1,6 @@
 ## Hello everyone, I'm Niladri Ghosh 👋 
 
-`A guy who loves building pcs, p.s nowadays I suggest people AMD 😉`
+`Tech Hardware Fanatic | Casual Gamer | Sci-Fi Nerd`
 
 - 🔨 I’m currently working with Intel Arc GPUs.
 - 💡 World's too big. Only consuming the relevant bits.
